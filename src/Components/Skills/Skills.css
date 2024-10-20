@@ -1,0 +1,29 @@
+.skills{
+    display: grid;
+    place-items: center;
+    padding: 40px;
+    margin-top: 4rem;
+}
+.skills h2{
+    font-size: 38px;
+}
+.skills_container{
+    padding: 20px;
+    display: grid;
+    place-items: center;
+}
+.skills_img1{
+    display: flex;
+    gap: 2rem;
+}
+.skills_img1 img{
+    width: 12rem;
+}
+.skills_img2{
+    margin-top: 2rem;
+    display: flex;
+    gap: 2rem;
+}
+.skills_img2 img{
+    width: 10rem;
+}
